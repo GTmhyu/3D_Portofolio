@@ -139,7 +139,7 @@ import {
       iconBg: "black",
       date: "2022",
       points: [
-        "Creating Project Mobile Apps",
+        "Creating Project Mobile Apps.",
         "Learn to using Linux as daily OS.",
         "Learn Postman as a backbone for apps.",
         "Restfull API project.",
