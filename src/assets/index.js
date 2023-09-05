@@ -23,8 +23,13 @@ import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import PH from "./company/PH.png";
+import PL from "./company/PL.png";
+import dq from "./company/dq.png";
+import gg from "./company/gg.png";
+import WB from "./company/WB.png";
+import K from "./company/K.png";
 
 import carrent from "./carrent.png";
 import Silat from "./Silat.png";
@@ -54,8 +59,13 @@ export {
   typescript,
   threejs,
   meta,
+  PH,
+  PL,
+  K,
+  gg,
+  WB,
   shopify,
-  starbucks,
+  dq,
   tesla,
   carrent,
   Silat,
