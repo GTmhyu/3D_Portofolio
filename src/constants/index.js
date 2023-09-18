@@ -25,6 +25,7 @@ import {
     shopify,
     Silat,
     jobit,
+    apps,
     tripguide,
     threejs,
   } from "../assets";
@@ -227,7 +228,7 @@ import {
       source_code_link: "https://github.com/GTmhyu/Creating_SPK_with_laravel",
     },
     {
-      name: "Job IT",
+      name: "Job Finder",
       description:
         "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
       tags: [
@@ -244,8 +245,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: apps,
+      source_code_link: "https://github.com/GTmhyu/Job_apps",
     },
     {
       name: "Trip Guide",
