@@ -34,6 +34,7 @@ import K from "./company/K.png";
 import carrent from "./carrent.png";
 import Silat from "./Silat.png";
 import jobit from "./jobit.png";
+import app from "./app.png";
 import apps from "./apps.jpg";
 import tripguide from "./tripguide.png";
 
@@ -68,6 +69,7 @@ export {
   shopify,
   dq,
   tesla,
+  app,
   carrent,
   Silat,
   jobit,

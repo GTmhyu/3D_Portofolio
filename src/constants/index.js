@@ -26,6 +26,7 @@ import {
     Silat,
     jobit,
     apps,
+    app,
     tripguide,
     threejs,
   } from "../assets";
@@ -230,22 +231,22 @@ import {
     {
       name: "Job Finder",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Web & application that enables users to search for job openings, view for positions, and locate available jobs based on their current location.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "api",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "JavaScript",
           color: "pink-text-gradient",
         },
       ],
-      image: apps,
+      image: app,
       source_code_link: "https://github.com/GTmhyu/Job_apps",
     },
     {
