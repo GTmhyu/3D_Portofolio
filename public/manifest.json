@@ -1,0 +1,24 @@
+
+{
+    "name": "Mhyu de Santos",
+    "short_name": "Mhyu",
+    "description": "Portofolio GW",
+    "version": "1.0.0",
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "icons": [
+      {
+        "src": "backend.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "backend.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
