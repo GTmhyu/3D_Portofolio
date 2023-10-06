@@ -250,9 +250,9 @@ import {
       source_code_link: "https://github.com/GTmhyu/Job_apps",
     },
     {
-      name: "Trip Guide",
+      name: "Desain Kaos AI",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "On progress.",
       tags: [
         {
           name: "nextjs",
@@ -268,7 +268,7 @@ import {
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/GTmhyu/Desain_Kaos_AI_Implement",
     },
   ];
   
