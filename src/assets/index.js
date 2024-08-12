@@ -31,15 +31,19 @@ import gg from "./company/gg.png";
 import WB from "./company/WB.png";
 import K from "./company/K.png";
 
+import yt from "./yt.png"
+import arch from "./arch.png";
 import carrent from "./carrent.png";
 import Silat from "./Silat.png";
 import jobit from "./jobit.png";
 import app from "./app.png";
 import apps from "./apps.jpg";
 import tripguide from "./tripguide.png";
+import kaos from "./kaos.png";
 
 export {
   logo,
+  yt,
   backend,
   creator,
   mobile,
@@ -75,4 +79,6 @@ export {
   jobit,
   apps,
   tripguide,
+  kaos,
+  arch,
 };

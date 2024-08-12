@@ -28,7 +28,9 @@ import {
     apps,
     app,
     tripguide,
+    kaos,
     threejs,
+    arch,
   } from "../assets";
   
   export const navLinks = [
@@ -48,19 +50,19 @@ import {
   
   const services = [
     {
-      title: "Web Developer interest",
+      title: " React Web Developer",
       icon: web,
     },
     {
-      title: "React Native interest",
+      title: "Next.JS interest",
       icon: mobile,
     },
     {
-      title: "Backend interest",
+      title: "Full stack Person",
       icon: backend,
     },
     {
-      title: "Collage Student",
+      title: "Java Script Programer",
       icon: creator,
     },
   ];
@@ -204,29 +206,29 @@ import {
   
   const projects = [
     {
-      name: "Simple SPK Website",
+      name: "ARCH-SSH",
       description:
-        "Creating a decision support system website to determine the eligibility of participants using the Laravel framework.",
+        "People detection & recording features, incorporating TailwindCSS and OpenAI technology TensorflowJS.",
       tags: [
         {
           name: "CSS",
           color: "blue-text-gradient",
         },
         {
-          name: "PHP",
+          name: "TypeScript",
           color: "green-text-gradient",
         },
         {
-          name: "Blade",
+          name: "JavaScript",
           color: "pink-text-gradient",
         },
         {
-          name: "MariaDB",
+          name: "MongoDB",
           color: "red-text-gradient",
         },
       ],
-      image: Silat,
-      source_code_link: "https://github.com/GTmhyu/Creating_SPK_with_laravel",
+      image: arch,
+      source_code_link: "https://www.youtube.com/watch?v=_pxvm6eX91k",
     },
     {
       name: "Job Finder",
@@ -252,23 +254,23 @@ import {
     {
       name: "Desain Kaos AI",
       description:
-        "On progress.",
+        "Many large corporations already use 3D graphics to showcase their products. Learn how to build your own ThreeJS 3D product website and infuse it with the power of artificial intelligence",
       tags: [
         {
-          name: "nextjs",
+          name: "ThreeJS",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "React Three Fiber",
           color: "green-text-gradient",
         },
         {
-          name: "css",
+          name: "tailwind-css",
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/GTmhyu/Desain_Kaos_AI_Implement",
+      image: kaos,
+      source_code_link: "https://www.youtube.com/watch?v=_C43Kpu2fKk",
     },
   ];
   
